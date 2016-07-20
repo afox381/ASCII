@@ -3,6 +3,8 @@ ASCII
 
 ASCII is an ASCII line drawing app written for the iPhone in Objective-C for Stealth Co. The full brief is given below. Rest assured, I had my own take on how such an app should work. :)
 
+Time given: 2-4 hours
+
 Brief
 -----
 
